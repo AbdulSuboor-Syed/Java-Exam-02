@@ -11,7 +11,7 @@ package Question07;
  */
 public enum Soda {
     
-    Cocacola(10,8),Pepsi(11,8.20),Sprite(9.99,7.50);
+    COCACOLA(10,8),PEPSI(11,8.20),SPRITE(9.99,7.50);
     
     private double cost;
     private double wholeSaleCost;
